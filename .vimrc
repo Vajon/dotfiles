@@ -3,6 +3,7 @@ syntax on
 set number relativenumber
 set expandtab
 set tabstop=4
+set softtabstop=4
 
 " shortcut for netrw
 nnoremap @ :Explore<Enter>
