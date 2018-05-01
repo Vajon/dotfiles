@@ -1,5 +1,5 @@
 set nocompatible
 syntax on
-set number
+set number relativenumber
 set expandtab
 set tabstop=4
