@@ -4,6 +4,9 @@ set number relativenumber
 set expandtab
 set tabstop=4
 
+" shortcut for netrw
+nnoremap @ :Explore<Enter>
+
 " split settings
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
